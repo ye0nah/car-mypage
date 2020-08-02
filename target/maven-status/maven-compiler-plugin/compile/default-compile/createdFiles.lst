@@ -1,0 +1,12 @@
+carRental\MyPageViewHandler.class
+carRental\MyPageRepository.class
+carRental\Paid.class
+carRental\RentalCanceled.class
+carRental\MyPageApplication.class
+carRental\MyPage.class
+carRental\AbstractEvent$1.class
+carRental\config\kafka\KafkaProcessor.class
+carRental\PolicyHandler.class
+carRental\Rented.class
+carRental\AbstractEvent.class
+carRental\Refunded.class
